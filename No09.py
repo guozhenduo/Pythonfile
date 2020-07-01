@@ -1,0 +1,5 @@
+print("\033[0;31;40;6mError:06.c File Not Found",end='')
+print("\n\033[0;31;40;6mError:Java SDK is Not Found",end='')
+print("\n\033[0;31;33;6mpleas look at",end = " ")
+print("\033[4;34;40;6mhttp://python.org/",end='')
+print()
