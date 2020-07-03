@@ -1,6 +1,6 @@
 # Pythonfile
 ```
-Learn Python Notebooks
+Learn Python Notes.
 I learn Python.
 I like Python.
 ```
